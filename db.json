@@ -1,0 +1,108 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Delia",
+            "surname":"Leahu",
+            "photo_url":"https://media.istockphoto.com/id/1332100919/vector/man-icon-black-icon-person-symbol.jpg?s=612x612&w=0&k=20&c=AVVJkvxQQCuBhawHrUhDRTCeNQ3Jgt0K1tXjJsFy1eg=",
+            "balance":1500
+        },
+        {
+            "id":1,
+            "name":"Dan",
+            "surname":"Tenco",
+            "photo_url":"https://www.iconpacks.net/icons/1/free-user-icon-295-thumb.png",
+            "balance":1500
+        },
+        {
+            "id":1,
+            "name":"Marius",
+            "surname":"Alexandru",
+            "photo_url":"https://img.myloview.com.br/quadros/people-icon-vector-person-icon-vector-user-icon-vector-400-258459696.jpg",
+            "balance":1500
+        }
+    ],
+    "products":[
+        {
+            "id":1,
+            "name":"merci",
+            "description":"Ciocolata cu lapte",
+            "price":230,
+            "author_id":1,
+            "photo_url":"https://m.media-amazon.com/images/I/71CqGy-6k9L.jpg"
+        },
+        {
+            "id":2,
+            "name":"toblerone",
+            "description":"Ciocolata",
+            "price":140,
+            "author_id":2,
+            "photo_url":"https://linella.md/public/products/e9e6c9178fb99c7c92ab7285b440ee7c.webp"
+        },
+        {
+            "id":3,
+            "name":"kit-kat",
+            "description":"Ciocolata ",
+            "price":210,
+            "author_id":1,
+            "photo_url":"https://www.kitkat.com.au/media/catalog/product/cache/28857f20c198528abed503fb54a4b0b5/9/3/93600057_h_en_1648444100898.jpg"
+        },
+        {
+            "id":4,
+            "name":"kinder",
+            "description":"Ciocolata cu lapte",
+            "price":110,
+            "author_id":1,
+            "photo_url":"https://comenzi.md/image/cache/catalog/product/2/c52b2d45bb8de1cec0e6744130881d30-480x304.png"
+        },
+        {
+            "id":5,
+            "name":"milka",
+            "description":"Ciocolata cu lapte",
+            "price":200,
+            "author_id":1,
+            "photo_url":"https://img1.zakaz.md/5220a3138ff543d1bffd78a6990c790d/1727324309-s1350x1350.jpg"
+        },
+        {
+            "id":6,
+            "name":"nesquik",
+            "description":"Ciocolata cu lapte",
+            "price":90,
+            "author_id":1,
+            "photo_url":"https://vladalina.md/cron/images/1180201100.png"
+        },
+        {
+            "id":7,
+            "name":"hershey's",
+            "description":"Ciocolata ",
+            "price":190,
+            "author_id":2,
+            "photo_url":"https://i5.walmartimages.com/seo/Hershey-s-Milk-Chocolate-King-Size-Candy-Bar-2-6-oz_043c1185-2876-4546-9755-dbbd8aeb79d5.7528ef6c09a3350c1b418cde7cf30a2d.jpeg"
+        },
+        {
+            "id":8,
+            "name":"reese's",
+            "description":"Ciocolata cu biscuit",
+            "price":150,
+            "author_id":1,
+            "photo_url":"https://www.hersheyland.ca/content/dam/hersheyland_canada/en_ca/products/reeses/00056600793217-reeses-peanut-butter-cups-three-pack-46g-front.png"
+        },
+        {
+            "id":9,
+            "name":"lion",
+            "description":"Ciocolata cu cereale",
+            "price":170,
+            "author_id":1,
+            "photo_url":"https://m.media-amazon.com/images/I/61gv74QkQNL._SL1200_.jpg"
+        },
+        {
+            "id":10,
+            "name":"snickers",
+            "description":"Ciocolata",
+            "price":140,
+            "author_id":1,
+            "photo_url":"https://www.snickers.com/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png"
+        }
+
+    ]
+}
